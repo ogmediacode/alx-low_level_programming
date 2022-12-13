@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
- * Description - poinst random generated number
+ * Description - prints if random generated number is +tive, zero or -tive
  * Return: Always 0
  */
 int main(void)
