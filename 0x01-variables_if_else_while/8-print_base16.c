@@ -4,10 +4,10 @@
  * main - Entry point
  * Return: Always zero
  */
-int main(0)
+int main(void)
 {
-	int num;
 	char c = 'a';
+	int num;
 
 	for (num = 0; num < 16; num++)
 	{
