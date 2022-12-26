@@ -6,8 +6,8 @@
 
 void print_alphabet_x10(void)
 {
-int tem;
 char ch;
+int i;
 
 i = 0;
 
