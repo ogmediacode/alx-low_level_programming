@@ -21,7 +21,6 @@ return (actual_sqrt_recursion(n, 0));
 }
 
 /**
-*
 * actual_sqrt_recursion - recurses to find the natural
 *
 * square root of a number
