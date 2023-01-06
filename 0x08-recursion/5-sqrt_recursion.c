@@ -24,10 +24,10 @@ return (actual_sqrt_recursion(n, 0));
 * actual_sqrt_recursion - recurses to find the natural
 *
 * square root of a number
+*
 * @n: number to calculate the sqaure root of
+*
 * @i: iterator
-*
-*
 *
 * Return: the resulting square root
 *
