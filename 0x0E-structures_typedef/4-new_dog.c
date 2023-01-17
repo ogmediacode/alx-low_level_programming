@@ -79,9 +79,7 @@ len2 = _strlen(owner);
 dog = malloc(sizeof(dog_t));
 if (dog == NULL)
 return (NULL);
-																			return (NULL);
 dog->name = malloc(sizeof(char) * (len1 + 1));
-
 if (dog->name == NULL)
 {
 free(dog);
