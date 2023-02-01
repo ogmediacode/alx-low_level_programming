@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "main.h"
 
-/** 		
+/**
 * free_grid - frees 2d arra
 * @grid: 2d grid
 *
@@ -12,7 +12,7 @@
 *
 *
 *
-* Description: frees memory of grid
+*
 *
 *
 *
